@@ -41,3 +41,34 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HMatt Champagne</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi, I am Matt. I am a trained linguist, a freelance media consultant, and a amateur data wrangler.</h1>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:mjchampagne@protonmail.com">email</a></li>
+        		<li><a href="https://github.com/mjchampagne">github.com/mjchampagne</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
